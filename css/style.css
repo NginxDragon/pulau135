@@ -1,0 +1,28 @@
+.promo {
+  display: grid;
+}
+.promo p a {
+  text-decoration: none;
+}
+.promo p a:hover{
+    text-decoration: none;
+    background-color: #006cb7;
+    color: #fff;
+  }
+
+.layanan a {
+  text-decoration: none;
+}
+div.title {
+  background-color: #006cb7;
+  padding: 2px;
+  margin: 0 15px;
+  color: white;
+}
+#Demo2 a {
+  text-decoration: none;
+}
+#Demo2 a:hover {
+  background-color: #006cb7;
+  color: #fff;
+}
