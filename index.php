@@ -190,6 +190,8 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
         <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://dashboard.my-pertamina.id/login" target="_blank">MyPertamina Dashboard</a>
         <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://webadm.berbagiberkah.mypertamina.id" target="_blank">Web Admin</a>
         <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://www.google.com/maps/d/u/0/viewer?mid=1XDhARtklfH8XrElIEtGUsYrQkWNFqDkz&ll=-2.5354146947953926%2C118.00752249999994&z=4" target="_blank">PLHS</a>
+        <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://gabungoutlet.pertaminalubricants.com/" target="_blank">Gabung Outlet</a>
+        <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://ownchannel.pertaminalubricants.com/" target="_blank">Daftar Jadi Mitra</a>
         
       </div>  
 
