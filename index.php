@@ -282,6 +282,13 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
       </div>
       <br>
 
+      <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
+        <div class="layanan">
+        <a href="http://172.24.59.48/repository/" target="_blank">Repository</a>
+        </div>
+      </div>
+      <br>
+
       
 
       <div class="w3-card w3-round w3-white w3-center">
