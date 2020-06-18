@@ -184,6 +184,7 @@ html, body, h1, h2, h3, h4, h5 {font-family: "Open Sans", sans-serif}
         <span class="w3-right w3-opacity">16 min</span>
         <h4>Apps</h4>
         <hr class="w3-clear">
+        <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://www.musicoolpromo.com/order-now" target="_blank">Musicool Promo</a>
         <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://pds135.com/" target="_blank">PDS 135</a>
         <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://www.pds135.com/backoffice/auth" target="_blank">PDS Back Office 135</a>
         <a class="w3-button w3-theme-d1 w3-margin-bottom" href="https://on4.infomedia.co.id/oct_pertamina" target="_blank">OMNI</a>
