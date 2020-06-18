@@ -108,16 +108,16 @@
               <div class="w3-row-padding">
                 <br>
                 <div class="w3-half">
-                  <img src="/w3images/lights.jpg" style="width:100%" class="w3-margin-bottom">
+                  <img src="img/logo.jpeg" style="width:100%" class="w3-margin-bottom">
                 </div>
                 <div class="w3-half">
-                  <img src="/w3images/nature.jpg" style="width:100%" class="w3-margin-bottom">
+                  <img src="img/bpo36.jpg" style="width:100%" class="w3-margin-bottom">
                 </div>
                 <div class="w3-half">
-                  <img src="/w3images/mountains.jpg" style="width:100%" class="w3-margin-bottom">
+                  <img src="img/perisai.jpg" style="width:100%" class="w3-margin-bottom">
                 </div>
                 <div class="w3-half">
-                  <img src="/w3images/forest.jpg" style="width:100%" class="w3-margin-bottom">
+                  <img src="img/produk.jpg" style="width:100%" class="w3-margin-bottom">
                 </div>
                 <div class="w3-half">
                   <img src="/w3images/nature.jpg" style="width:100%" class="w3-margin-bottom">
@@ -301,7 +301,7 @@
 
         <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
           <div class="layanan">
-            <a href="wa" target="_blank">Kasir Wa </a>
+            <a href="wa" target="_blank">Kasir Parse </a>
           </div>
         </div>
         <br>
