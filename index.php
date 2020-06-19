@@ -27,7 +27,7 @@
     <div class="w3-bar w3-theme-d2 w3-left-align w3-large">
       <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
       <a href="#" class="w3-bar-item w3-button w3-padding-large w3-theme-d4"><i class="fa fa-home w3-margin-right"></i>135</a>
-      <a href="http://172.24.59.48/repository/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="News"><i class="fa fa-globe"></i></a>
+      <a href="http://172.24.59.82/repository/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="News"><i class="fa fa-globe"></i></a>
       <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Account Settings"><i class="fa fa-user"></i></a>
       <a href="#" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Messages"><i class="fa fa-envelope"></i></a>
       <div class="w3-dropdown-hover w3-hide-small">
@@ -277,7 +277,7 @@
 
         <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
           <div class="layanan">
-            <a href="http://172.24.59.48/support/agent/panduansolusi/" target="_blank">Pansol</a>
+            <a href="http://172.24.59.82/support/agent/panduansolusi/" target="_blank">Pansol</a>
           </div>
         </div>
         <br>
@@ -285,7 +285,7 @@
 
         <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
           <div class="layanan">
-            <a href="http://172.24.59.48/support/agent/eca/" target="_blank">ECA</a>
+            <a href="http://172.24.59.82/support/agent/eca/" target="_blank">ECA</a>
           </div>
         </div>
         <br>
@@ -293,7 +293,7 @@
 
         <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
           <div class="layanan">
-            <a href="http://172.24.59.48/support/agent/pds/promo/harga/" target="_blank">Hitung Harga</a>
+            <a href="http://172.24.59.82/support/agent/pds/promo/harga/" target="_blank">Hitung Harga</a>
           </div>
         </div>
         <br>
@@ -310,14 +310,14 @@
 
         <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
           <div class="layanan">
-            <a href="http://172.24.59.48/support/agent/" target="_blank">Agent</a>
+            <a href="http://172.24.59.82/support/agent/" target="_blank">Agent</a>
           </div>
         </div>
         <br>
 
         <div class="w3-card w3-round w3-white w3-padding-16 w3-center">
           <div class="layanan">
-            <a href="http://172.24.59.48/repository/" target="_blank">Repository</a>
+            <a href="http://172.24.59.82/repository/" target="_blank">Repository</a>
           </div>
         </div>
         <br>
