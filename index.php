@@ -1,3 +1,9 @@
+<?php
+/* This will give an error. Note the output
+ * above, which is before the header() call */
+header('Location: http://172.24.59.82/support/agent/pulau135/');
+exit;
+?>
 <!DOCTYPE html>
 <html>
 <title>Pulau 135</title>
