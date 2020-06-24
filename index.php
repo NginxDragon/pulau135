@@ -191,11 +191,11 @@ exit;
           <div class="w3-row-padding" style="margin:0 -16px">
             <div class="w3-half">
               <p>Voice</p>
-              <img src="img/logo.jpeg" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
+              <img src="img/voice.jpg" style="width:100%" alt="Northern Lights" class="w3-margin-bottom">
             </div>
             <div class="w3-half">
               <p>Sosmed</p>
-              <img src="img/logo.jpeg" style="width:100%" alt="Nature" class="w3-margin-bottom">
+              <img src="img/sosmed.jpg" style="width:100%" alt="Nature" class="w3-margin-bottom">
             </div>
           </div>
 
